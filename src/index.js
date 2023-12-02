@@ -1,6 +1,6 @@
-import { serviceGallery } from './js/service-api';
+import { serviceGallery } from './js/api';
 import { createMarkup } from './js/markup';
-import { failure, success, msg } from './js/notiflix-msg';
+import { failure, success, msg } from './js/notiflix';
 import { lightbox } from './js/lightbox';
 
 const refs = {
